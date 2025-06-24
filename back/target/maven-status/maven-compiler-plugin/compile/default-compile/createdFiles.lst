@@ -1,0 +1,6 @@
+com\panaderia\CorsFilter.class
+com\panaderia\repositorio\FacturaRepo.class
+com\panaderia\controladores\FacturaControlador.class
+com\panaderia\WebConfig.class
+com\panaderia\model\Factura.class
+com\panaderia\DemoApplication.class
